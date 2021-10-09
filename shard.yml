@@ -1,0 +1,13 @@
+name: crygreq
+version: 0.1.0
+
+authors:
+  - odlavE
+
+targets:
+  crygreq:
+    main: src/crygreq.cr
+
+crystal: 1.1.1
+
+license: GPL-3.0
