@@ -11,7 +11,7 @@ Simple HTTPS request in Crystal.
 
 ## :runner: To run this project?
 
-First, you need to have installed Crystal and Crest.
+First, you need to have installed Crystal.
 
 <details>
   <summary>Install: Crystal</summary>
